@@ -1,1 +1,3 @@
-print("cos")
+print("Hello Git!")
+def nazwa_funkcji():
+    print("funkcja")
